@@ -1,0 +1,42 @@
+#component1{
+    width:60%;
+    margin:auto;
+    margin-top:5%;
+    text-align: left;
+    min-height:60vh;
+    background-color: cornflowerblue;
+    border-radius:5px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+table{
+    width:100%;
+}
+input[type="text"] {
+    width:90%;
+}
+input[type="password"] {
+    width:90%;
+}
+input[type="number"] {
+    width:90%;
+}
+#btn1{
+    background-color: white;
+    color:blue;
+    font-size:2vw;
+    border:none;
+    outline:none;
+    font-weight:bold;
+    border-radius:5px;
+}
+#btn2{
+    background-color: white;
+    color:blue;
+    font-size:2vw;
+    border:none;
+    outline:none;
+    border-radius:5px;
+    font-weight:bold;
+
+    margin-left:5%;
+}
